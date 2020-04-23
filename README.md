@@ -8,4 +8,3 @@ Description is enough. Self curated stuff.
 * [http://psychclassics.yorku.ca/Miller/](http://psychclassics.yorku.ca/Miller/)			|			*2020-04-24 02:36:45.786253*
 * [https://pfrazee.hashbase.io/blog/dat-and-servers](https://pfrazee.hashbase.io/blog/dat-and-servers)			|			*2020-04-24 02:37:08.235432*
 * [https://redandblack.io/blog/2020/bash-prompt-with-updating-time/](https://redandblack.io/blog/2020/bash-prompt-with-updating-time/)			|			*2020-04-24 02:54:29.054049*
-* [fc3523dd4026b53154e76cda7d68d61d955c80d4](fc3523dd4026b53154e76cda7d68d61d955c80d4)			|			*2020-04-24 02:57:11.085269*
