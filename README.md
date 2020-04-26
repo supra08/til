@@ -11,3 +11,4 @@ Description is enough. Self curated stuff.
 
 * [https://medium.com/lambda-store/serverless-redis-is-here-34c2fa335f24](https://medium.com/lambda-store/serverless-redis-is-here-34c2fa335f24)			|			*2020-04-24 03:09:16.525382*
 * [https://capnproto.org/news/2020-04-23-capnproto-0.8.html](https://capnproto.org/news/2020-04-23-capnproto-0.8.html)			|			*2020-04-24 03:09:59.086768*
+* [https://github.com/w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)			|			*2020-04-26 18:05:36.966961*
