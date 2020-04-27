@@ -14,3 +14,4 @@ Description is enough. Self curated stuff.
 * [https://github.com/w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)			|			*2020-04-26 18:05:36.966961*
 * [https://www.qiling.io/](https://www.qiling.io/)			|			*2020-04-28 03:49:36.707134*
 * [https://arxiv.org/abs/2004.05074](https://arxiv.org/abs/2004.05074)			|			*2020-04-28 03:49:56.213512*
+* [https://rust-analyzer.github.io/blog/2020/04/20/first-release.html](https://rust-analyzer.github.io/blog/2020/04/20/first-release.html)			|			*2020-04-28 03:50:09.862574*
