@@ -21,3 +21,4 @@ Description is enough. Self curated stuff.
 * [https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)			|			*2020-04-28 17:50:38.982705*
 * [https://github.com/saljam/webwormhole](https://github.com/saljam/webwormhole)			|			*2020-04-30 03:26:52.618326*
 * [https://github.com/Impedimenta/Suitcase](https://github.com/Impedimenta/Suitcase)			|			*2020-04-30 03:47:41.578377*
+* [https://www.infoq.com/news/2020/04/microservices-back-again/](https://www.infoq.com/news/2020/04/microservices-back-again/)			|			*2020-04-30 04:04:02.378792*
