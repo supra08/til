@@ -24,3 +24,4 @@ Description is enough. Self curated stuff.
 * [https://www.infoq.com/news/2020/04/microservices-back-again/](https://www.infoq.com/news/2020/04/microservices-back-again/)			|			*2020-04-30 04:04:02.378792*
 * [https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)			|			*2020-05-01 19:39:19.386099*
 * [https://timr.co/server-side-rendering-is-a-thiel-truth](https://timr.co/server-side-rendering-is-a-thiel-truth)			|			*2020-05-03 01:47:23.250009*
+* [https://blog.digitalocean.com/vpc-trust-platform/](https://blog.digitalocean.com/vpc-trust-platform/)			|			*2020-05-03 01:49:14.411934*
