@@ -26,3 +26,4 @@ Description is enough. Self curated stuff.
 * [https://timr.co/server-side-rendering-is-a-thiel-truth](https://timr.co/server-side-rendering-is-a-thiel-truth)			|			*2020-05-03 01:47:23.250009*
 * [https://blog.digitalocean.com/vpc-trust-platform/](https://blog.digitalocean.com/vpc-trust-platform/)			|			*2020-05-03 01:49:14.411934*
 * [https://tecton.ai/blog/devops-ml-data/](https://tecton.ai/blog/devops-ml-data/)			|			*2020-05-03 01:49:24.164508*
+* [https://gtfobins.github.io/](https://gtfobins.github.io/)			|			*2020-05-03 04:14:23.184751*
