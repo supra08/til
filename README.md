@@ -23,3 +23,4 @@ Description is enough. Self curated stuff.
 * [https://github.com/Impedimenta/Suitcase](https://github.com/Impedimenta/Suitcase)			|			*2020-04-30 03:47:41.578377*
 * [https://www.infoq.com/news/2020/04/microservices-back-again/](https://www.infoq.com/news/2020/04/microservices-back-again/)			|			*2020-04-30 04:04:02.378792*
 * [https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)			|			*2020-05-01 19:39:19.386099*
+* [https://timr.co/server-side-rendering-is-a-thiel-truth](https://timr.co/server-side-rendering-is-a-thiel-truth)			|			*2020-05-03 01:47:23.250009*
