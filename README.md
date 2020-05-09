@@ -27,3 +27,6 @@ Description is enough. Self curated stuff.
 * [https://blog.digitalocean.com/vpc-trust-platform/](https://blog.digitalocean.com/vpc-trust-platform/)			|			*2020-05-03 01:49:14.411934*
 * [https://tecton.ai/blog/devops-ml-data/](https://tecton.ai/blog/devops-ml-data/)			|			*2020-05-03 01:49:24.164508*
 * [https://gtfobins.github.io/](https://gtfobins.github.io/)			|			*2020-05-03 04:14:23.184751*
+* [freqz(b,a);
+](freqz(b,a);
+)			|			*2020-05-10 04:24:08.030687*
