@@ -30,3 +30,4 @@ Description is enough. Self curated stuff.
 * [freqz(b,a);
 ](freqz(b,a);
 )			|			*2020-05-10 04:24:08.030687*
+* [https://github.com/teddykoker/pedalnet](https://github.com/teddykoker/pedalnet)			|			*2020-05-11 19:41:58.765032*
