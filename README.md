@@ -34,3 +34,4 @@ Description is enough. Self curated stuff.
 * [https://medium.com/@polyglot_factotum/rust-concurrency-the-single-writer-principle-applied-aada2cdc6fb0](https://medium.com/@polyglot_factotum/rust-concurrency-the-single-writer-principle-applied-aada2cdc6fb0)			|			*2020-05-11 19:42:57.071442*
 * [https://moxon6.github.io/cobol-js-emscripten/](https://moxon6.github.io/cobol-js-emscripten/)			|			*2020-05-17 02:00:55.506777*
 * [https://moxon6.github.io/cobol-js-emscripten/](https://moxon6.github.io/cobol-js-emscripten/)			|			*2020-05-17 02:01:02.327193*
+* [https://frenxi.com/http-headers-you-dont-expect/](https://frenxi.com/http-headers-you-dont-expect/)			|			*2020-05-17 02:01:17.487214*
