@@ -35,3 +35,4 @@ Description is enough. Self curated stuff.
 * [https://moxon6.github.io/cobol-js-emscripten/](https://moxon6.github.io/cobol-js-emscripten/)			|			*2020-05-17 02:00:55.506777*
 * [https://moxon6.github.io/cobol-js-emscripten/](https://moxon6.github.io/cobol-js-emscripten/)			|			*2020-05-17 02:01:02.327193*
 * [https://frenxi.com/http-headers-you-dont-expect/](https://frenxi.com/http-headers-you-dont-expect/)			|			*2020-05-17 02:01:17.487214*
+* [https://robertovitillo.com/what-every-developer-should-know-about-tcp/](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)			|			*2020-05-17 02:01:49.137827*
