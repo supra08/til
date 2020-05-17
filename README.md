@@ -37,3 +37,4 @@ Description is enough. Self curated stuff.
 * [https://frenxi.com/http-headers-you-dont-expect/](https://frenxi.com/http-headers-you-dont-expect/)			|			*2020-05-17 02:01:17.487214*
 * [https://robertovitillo.com/what-every-developer-should-know-about-tcp/](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)			|			*2020-05-17 02:01:49.137827*
 * [http://cmx.io/](http://cmx.io/)			|			*2020-05-17 04:38:27.500904*
+* [https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/)			|			*2020-05-17 23:06:31.469534*
