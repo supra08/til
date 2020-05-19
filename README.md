@@ -38,3 +38,4 @@ Description is enough. Self curated stuff.
 * [https://robertovitillo.com/what-every-developer-should-know-about-tcp/](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)			|			*2020-05-17 02:01:49.137827*
 * [http://cmx.io/](http://cmx.io/)			|			*2020-05-17 04:38:27.500904*
 * [https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/)			|			*2020-05-17 23:06:31.469534*
+* [https://benmosheron.gitlab.io/blog/2020/04/26/distortion.html](https://benmosheron.gitlab.io/blog/2020/04/26/distortion.html)			|			*2020-05-19 19:35:37.817293*
