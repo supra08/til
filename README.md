@@ -46,3 +46,4 @@ Description is enough. Self curated stuff.
 * [https://awesomeblog.club/](https://awesomeblog.club/)			|			*2020-05-30 15:59:03.772339*
 * [https://github.com/leonwanghui/ms-backend-wasm](https://github.com/leonwanghui/ms-backend-wasm)			|			*2020-06-02 23:46:54.006243*
 * [https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)			|			*2020-06-02 23:47:13.606031*
+* [http://dranger.com/ffmpeg/ffmpeg.html](http://dranger.com/ffmpeg/ffmpeg.html)			|			*2020-06-06 11:48:41.609681*
