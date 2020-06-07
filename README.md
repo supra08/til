@@ -49,3 +49,4 @@ Description is enough. Self curated stuff.
 * [http://dranger.com/ffmpeg/ffmpeg.html](http://dranger.com/ffmpeg/ffmpeg.html)			|			*2020-06-06 11:48:41.609681*
 * [https://www.garrensmith.com/blogs/mini-couch-hack-week](https://www.garrensmith.com/blogs/mini-couch-hack-week)			|			*2020-06-08 03:38:43.155827*
 * [https://blog.viktomas.com/posts/slip-box/](https://blog.viktomas.com/posts/slip-box/)			|			*2020-06-08 03:38:51.366442*
+* [https://mcfunley.com/choose-boring-technology](https://mcfunley.com/choose-boring-technology)			|			*2020-06-08 03:39:04.753710*
