@@ -52,3 +52,4 @@ Description is enough. Self curated stuff.
 * [https://mcfunley.com/choose-boring-technology](https://mcfunley.com/choose-boring-technology)			|			*2020-06-08 03:39:04.753710*
 * [https://www.waveform.com/blogs/main/5g-and-shannons-law](https://www.waveform.com/blogs/main/5g-and-shannons-law)			|			*2020-06-08 03:39:12.026694*
 * [https://github.com/EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide)			|			*2020-06-08 03:39:20.468142*
+* [http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)			|			*2020-06-08 03:39:28.320401*
