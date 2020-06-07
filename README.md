@@ -48,3 +48,4 @@ Description is enough. Self curated stuff.
 * [https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)			|			*2020-06-02 23:47:13.606031*
 * [http://dranger.com/ffmpeg/ffmpeg.html](http://dranger.com/ffmpeg/ffmpeg.html)			|			*2020-06-06 11:48:41.609681*
 * [https://www.garrensmith.com/blogs/mini-couch-hack-week](https://www.garrensmith.com/blogs/mini-couch-hack-week)			|			*2020-06-08 03:38:43.155827*
+* [https://blog.viktomas.com/posts/slip-box/](https://blog.viktomas.com/posts/slip-box/)			|			*2020-06-08 03:38:51.366442*
