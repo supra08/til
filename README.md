@@ -50,3 +50,4 @@ Description is enough. Self curated stuff.
 * [https://www.garrensmith.com/blogs/mini-couch-hack-week](https://www.garrensmith.com/blogs/mini-couch-hack-week)			|			*2020-06-08 03:38:43.155827*
 * [https://blog.viktomas.com/posts/slip-box/](https://blog.viktomas.com/posts/slip-box/)			|			*2020-06-08 03:38:51.366442*
 * [https://mcfunley.com/choose-boring-technology](https://mcfunley.com/choose-boring-technology)			|			*2020-06-08 03:39:04.753710*
+* [https://www.waveform.com/blogs/main/5g-and-shannons-law](https://www.waveform.com/blogs/main/5g-and-shannons-law)			|			*2020-06-08 03:39:12.026694*
