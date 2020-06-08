@@ -53,3 +53,4 @@ Description is enough. Self curated stuff.
 * [https://www.waveform.com/blogs/main/5g-and-shannons-law](https://www.waveform.com/blogs/main/5g-and-shannons-law)			|			*2020-06-08 03:39:12.026694*
 * [https://github.com/EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide)			|			*2020-06-08 03:39:20.468142*
 * [http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)			|			*2020-06-08 03:39:28.320401*
+* [http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)			|			*2020-06-09 04:07:47.193694*
