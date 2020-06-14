@@ -59,3 +59,4 @@ Description is enough. Self curated stuff.
 * [https://github.com/marcobambini/gravity](https://github.com/marcobambini/gravity)			|			*2020-06-11 00:04:33.762099*
 * [https://endler.dev/2019/tinysearch/](https://endler.dev/2019/tinysearch/)			|			*2020-06-11 00:04:50.922284*
 * [https://opencrux.com/](https://opencrux.com/)			|			*2020-06-14 16:32:00.315788*
+* [https://smallstep.com/blog/diy-single-sign-on-for-ssh/](https://smallstep.com/blog/diy-single-sign-on-for-ssh/)			|			*2020-06-14 16:51:20.343736*
