@@ -60,3 +60,4 @@ Description is enough. Self curated stuff.
 * [https://endler.dev/2019/tinysearch/](https://endler.dev/2019/tinysearch/)			|			*2020-06-11 00:04:50.922284*
 * [https://opencrux.com/](https://opencrux.com/)			|			*2020-06-14 16:32:00.315788*
 * [https://smallstep.com/blog/diy-single-sign-on-for-ssh/](https://smallstep.com/blog/diy-single-sign-on-for-ssh/)			|			*2020-06-14 16:51:20.343736*
+* [https://www.bbc.com/future/article/20190919-the-maze-puzzle-hidden-within-an-early-video-game](https://www.bbc.com/future/article/20190919-the-maze-puzzle-hidden-within-an-early-video-game)			|			*2020-06-18 21:58:37.997741*
