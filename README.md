@@ -64,3 +64,4 @@ Description is enough. Self curated stuff.
 * [https://www.potaroo.net/ispcol/2020-06/row.html](https://www.potaroo.net/ispcol/2020-06/row.html)			|			*2020-06-20 12:14:56.995068*
 * [https://pmihaylov.com/go-generics-draft-design/](https://pmihaylov.com/go-generics-draft-design/)			|			*2020-06-20 12:15:04.340641*
 * [https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)			|			*2020-06-20 12:15:15.830485*
+* [https://exploringjs.com/deep-js/](https://exploringjs.com/deep-js/)			|			*2020-06-20 12:15:23.498512*
