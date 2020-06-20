@@ -66,3 +66,4 @@ Description is enough. Self curated stuff.
 * [https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)			|			*2020-06-20 12:15:15.830485*
 * [https://exploringjs.com/deep-js/](https://exploringjs.com/deep-js/)			|			*2020-06-20 12:15:23.498512*
 * [https://github.com/jina-ai/jinabox.js/](https://github.com/jina-ai/jinabox.js/)			|			*2020-06-20 12:15:32.950086*
+* [https://satellite.earth/](https://satellite.earth/)			|			*2020-06-20 12:15:42.561092*
