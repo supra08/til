@@ -62,3 +62,4 @@ Description is enough. Self curated stuff.
 * [https://smallstep.com/blog/diy-single-sign-on-for-ssh/](https://smallstep.com/blog/diy-single-sign-on-for-ssh/)			|			*2020-06-14 16:51:20.343736*
 * [https://www.bbc.com/future/article/20190919-the-maze-puzzle-hidden-within-an-early-video-game](https://www.bbc.com/future/article/20190919-the-maze-puzzle-hidden-within-an-early-video-game)			|			*2020-06-18 21:58:37.997741*
 * [https://www.potaroo.net/ispcol/2020-06/row.html](https://www.potaroo.net/ispcol/2020-06/row.html)			|			*2020-06-20 12:14:56.995068*
+* [https://pmihaylov.com/go-generics-draft-design/](https://pmihaylov.com/go-generics-draft-design/)			|			*2020-06-20 12:15:04.340641*
