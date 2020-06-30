@@ -67,3 +67,4 @@ Description is enough. Self curated stuff.
 * [https://exploringjs.com/deep-js/](https://exploringjs.com/deep-js/)			|			*2020-06-20 12:15:23.498512*
 * [https://github.com/jina-ai/jinabox.js/](https://github.com/jina-ai/jinabox.js/)			|			*2020-06-20 12:15:32.950086*
 * [https://satellite.earth/](https://satellite.earth/)			|			*2020-06-20 12:15:42.561092*
+* [https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)			|			*2020-06-30 18:40:40.304761*
