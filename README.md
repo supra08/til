@@ -69,3 +69,4 @@ Description is enough. Self curated stuff.
 * [https://satellite.earth/](https://satellite.earth/)			|			*2020-06-20 12:15:42.561092*
 * [https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)			|			*2020-06-30 18:40:40.304761*
 * [https://www.anfractuosity.com/projects/ultrasound-networking/](https://www.anfractuosity.com/projects/ultrasound-networking/)			|			*2020-07-09 00:13:44.207606*
+* [https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)			|			*2020-07-09 00:13:55.120111*
