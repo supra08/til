@@ -73,3 +73,6 @@ Description is enough. Self curated stuff.
 * [    assert.dom('toggle-auto-deploy-key-generation').hasText('');
 ](    assert.dom('toggle-auto-deploy-key-generation').hasText('');
 )			|			*2020-07-17 21:59:28.191990*
+* [    assert.dom('toggle-auto-deploy-key-generation').hasText('');
+](    assert.dom('toggle-auto-deploy-key-generation').hasText('');
+)			|			*2020-07-17 21:59:35.670938*
