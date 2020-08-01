@@ -78,3 +78,4 @@ Description is enough. Self curated stuff.
 )			|			*2020-07-17 21:59:35.670938*
 * [https://mtlynch.io/tinypilot/](https://mtlynch.io/tinypilot/)			|			*2020-07-24 02:56:47.456068*
 * [https://www.industrialempathy.com/posts/design-docs-at-google/](https://www.industrialempathy.com/posts/design-docs-at-google/)			|			*2020-07-24 02:59:13.196534*
+* [https://www.youtube.com/watch?v=6ADqAX-heFY](https://www.youtube.com/watch?v=6ADqAX-heFY)			|			*2020-08-01 23:46:29.848515*
