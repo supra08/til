@@ -80,3 +80,4 @@ Description is enough. Self curated stuff.
 * [https://www.industrialempathy.com/posts/design-docs-at-google/](https://www.industrialempathy.com/posts/design-docs-at-google/)			|			*2020-07-24 02:59:13.196534*
 * [https://www.youtube.com/watch?v=6ADqAX-heFY](https://www.youtube.com/watch?v=6ADqAX-heFY)			|			*2020-08-01 23:46:29.848515*
 * [https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf](https://yurichev.org/1564f46f1c207b2dbc84a2bd4a41ed4c/RE4B-EN.pdf)			|			*2020-08-10 01:48:37.526805*
+* [https://arxiv.org/abs/quant-ph/0011122](https://arxiv.org/abs/quant-ph/0011122)			|			*2020-08-11 03:56:35.650235*
