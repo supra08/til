@@ -83,3 +83,4 @@ Description is enough. Self curated stuff.
 * [https://arxiv.org/abs/quant-ph/0011122](https://arxiv.org/abs/quant-ph/0011122)			|			*2020-08-11 03:56:35.650235*
 * [https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29)			|			*2020-08-11 04:02:14.377965*
 * [https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html)			|			*2020-08-11 04:05:09.961008*
+* [https://github.com/labuladong/fucking-algorithm/tree/english](https://github.com/labuladong/fucking-algorithm/tree/english)			|			*2020-08-18 03:51:54.230519*
